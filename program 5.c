@@ -1,3 +1,4 @@
+//priority sheduling
 #include<iostream>
  
 using namespace std;
